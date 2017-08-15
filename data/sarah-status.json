@@ -1,3 +1,39 @@
 {
-    
+    "weeks": [
+        {
+            "status": "completed",
+            "number": 0,
+            "time": 0
+        },
+        {
+            "status": "waiting",
+            "number": 0,
+            "time": 0            
+        },
+        {
+            "status": "waiting",
+            "number": 0,
+            "time": 0 
+        },
+        {
+            "status": "waiting",
+            "number": 0,
+            "time": 0 
+        },
+        {
+            "status": "waiting",
+            "number": 0,
+            "time": 0 
+        },
+        {
+            "status": "waiting",
+            "number": 0,
+            "time": 0 
+        },
+        {
+            "status": "waiting",
+            "number": 0,
+            "time": 0 
+        }
+    ]
 }
