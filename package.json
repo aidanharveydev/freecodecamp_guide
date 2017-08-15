@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp_guide",
+  "version": "1.0.0",
+  "description": "A guide to free code camp complete with schedule.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanharveydev/freecodecamp_guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanharveydev/freecodecamp_guide/issues"
+  },
+  "homepage": "https://github.com/aidanharveydev/freecodecamp_guide#readme"
+}
