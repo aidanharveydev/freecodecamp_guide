@@ -1,9 +1,12 @@
 # freecodecamp_guide
 A guide to free code camp complete with schedule.
 
-Tuesday 8/14: ALL of jquery
-Wednsday 8/15: School day
-Thursday 8/16: Beginning of "Basic JavaScript "through "Convert Celcius to Fahrenheit"
-Friday 8/17: "Declare String Variables" through "Word Blanks"
-Saturday 8/18: "Store Multiple Values in one Variable using JavaScript Arrays" through "Stand in Line"
-Sunday 8/19: "Understanding Boolean Values" through "Counting Cards"
+Run "npm run user" to create a new user and get started.
+
+Run "npm run status" to view current or upcoming assignments.
+ 
+Run "npm run start" to start an assignment and "npm run stop" to finish or pause.
+
+Run "npm run commands" to see a list of commands.
+
+Right now, there is only a week's worth of assignments (1/day). But more will be added later!
