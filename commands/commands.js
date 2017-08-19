@@ -1,6 +1,6 @@
 'use strict'
 
-const data = require('../helpers/parse.js')('./package.json')
+const data = require('../helpers/file.js').parse('package')
 
 console.log('Avaliable commands:')
 Object.keys(data.scripts).forEach(key => {
