@@ -1,10 +1,14 @@
 {
   "name": "freecodecamp_guide",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A guide to free code camp complete with schedule.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./commands/start.js",
+    "commands": "node ./commands/commands.js",
+    "status": "node ./commands/status.js",
+    "stop": "node ./commands/stop.js",
+    "user": "node ./commands/user.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/aidanharveydev/freecodecamp_guide/issues"
   },
-  "homepage": "https://github.com/aidanharveydev/freecodecamp_guide#readme"
+  "homepage": "https://github.com/aidanharveydev/freecodecamp_guide#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "prompt": "^1.0.0"
+  }
 }
